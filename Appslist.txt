@@ -25,13 +25,13 @@ Microsoft.MicrosoftStickyNotes                 # Digital sticky notes app (Depre
 Microsoft.MixedReality.Portal                  # Portal for Windows Mixed Reality headsets
 Microsoft.NetworkSpeedTest                     # Internet connection speed test utility
 Microsoft.News                                 # News aggregator (Replaced Bing News, now part of Microsoft Start)
-Microsoft.Office.OneNote                       # Digital note-taking app (Universal Windows Platform version)
+#Microsoft.Office.OneNote                       # Digital note-taking app (Universal Windows Platform version)
 Microsoft.Office.Sway                          # Presentation and storytelling app
-Microsoft.OneConnect                           # Mobile Operator management app (Replaced by Mobile Plans)
+#Microsoft.OneConnect                           # Mobile Operator management app (Replaced by Mobile Plans)
 Microsoft.Print3D                              # 3D printing preparation software
-Microsoft.PowerAutomateDesktop                 # Desktop automation tool (RPA)
+#Microsoft.PowerAutomateDesktop                 # Desktop automation tool (RPA)
 Microsoft.SkypeApp                             # Skype communication app (Universal Windows Platform version)
-Microsoft.Todos                                # To-do list and task management app
+#Microsoft.Todos                                # To-do list and task management app
 Microsoft.Windows.DevHome                      # Developer dashboard and tool configuration utility, no longer supported
 Microsoft.WindowsAlarms                        # Alarms & Clock app
 Microsoft.WindowsFeedbackHub                   # App for providing feedback to Microsoft on Windows
@@ -42,7 +42,7 @@ Microsoft.ZuneVideo                            # Movies & TV app for renting/buy
 MicrosoftCorporationII.MicrosoftFamily         # Family Safety App for managing family accounts and settings
 MicrosoftCorporationII.QuickAssist             # Remote assistance tool
 MicrosoftTeams                                 # Old MS Teams personal (MS Store version)
-MSTeams                                        # New MS Teams app (Work/School or Personal)
+#MSTeams                                        # New MS Teams app (Work/School or Personal)
 
 ACGMediaPlayer                                 # Media player app
 ActiproSoftwareLLC                             # Potentially UI controls or software components, often bundled by OEMs
@@ -50,10 +50,10 @@ AdobeSystemsIncorporated.AdobePhotoshopExpress # Basic photo editing app from Ad
 Amazon.com.Amazon                              # Amazon shopping app
 AmazonVideo.PrimeVideo                         # Amazon Prime Video streaming service app
 Asphalt8Airborne                               # Racing game
-AutodeskSketchBook                             # Digital drawing and sketching app
+#AutodeskSketchBook                             # Digital drawing and sketching app
 CaesarsSlotsFreeCasino                         # Casino slot machine game
 COOKINGFEVER                                   # Restaurant simulation game
-CyberLinkMediaSuiteEssentials                  # Multimedia software suite (often preinstalled by OEMs)
+#CyberLinkMediaSuiteEssentials                  # Multimedia software suite (often preinstalled by OEMs)
 DisneyMagicKingdoms                            # Disney theme park building game
 Disney                                         # General Disney content app (may vary by region/OEM, often Disney+)
 DrawboardPDF                                   # PDF viewing and annotation app, often focused on pen input
@@ -70,11 +70,11 @@ Instagram                                      # Instagram social media app
 king.com.BubbleWitch3Saga                      # Puzzle game from King
 king.com.CandyCrushSaga                        # Puzzle game from King
 king.com.CandyCrushSodaSaga                    # Puzzle game from King
-LinkedInforWindows                             # LinkedIn professional networking app
+#LinkedInforWindows                             # LinkedIn professional networking app
 MarchofEmpires                                 # Strategy game
 Netflix                                        # Netflix streaming service app
 NYTCrossword                                   # New York Times crossword puzzle app
-OneCalendar                                    # Calendar aggregation app
+#OneCalendar                                    # Calendar aggregation app
 PandoraMediaInc                                # Pandora music streaming app
 PhototasticCollage                             # Photo collage creation app
 PicsArt-PhotoStudio                            # Photo editing and creative app
@@ -89,7 +89,7 @@ TikTok                                         # TikTok short-form video app
 TuneInRadio                                    # Internet radio streaming app
 Twitter                                        # Twitter (now X) social media app
 Viber                                          # Messaging and calling app
-WinZipUniversal                                # File compression and extraction utility (Universal Windows Platform version)
+#WinZipUniversal                                # File compression and extraction utility (Universal Windows Platform version)
 Wunderlist                                     # To-do list app (Acquired by Microsoft, functionality moved to Microsoft To Do)
 XING                                           # Professional networking platform popular in German-speaking countries
 
@@ -103,7 +103,7 @@ XING                                           # Professional networking platfor
 #Microsoft.BingSearch                          # Web Search from Microsoft Bing (Integrates into Windows Search)
 #Microsoft.Copilot                             # New Microsoft Copilot app (AI assistant)
 #Microsoft.Edge                                # Edge browser (Can only be uninstalled in European Economic Area)
-#Microsoft.GamingApp                           # Modern Xbox Gaming App, required for installing some PC games
+Microsoft.GamingApp                           # Modern Xbox Gaming App, required for installing some PC games
 #Microsoft.GetHelp                             # Required for some Windows 11 Troubleshooters and support interactions
 #Microsoft.M365Companions                      # Microsoft 365 (Business) Calendar, Files and People mini-apps, these apps may be reinstalled if enabled by your Microsoft 365 admin
 #Microsoft.MSPaint                             # Paint 3D (Modern paint application with 3D features)
@@ -123,9 +123,9 @@ XING                                           # Professional networking platfor
 #Microsoft.WindowsStore                        # Microsoft Store, WARNING: This app cannot be reinstalled easily if removed!
 #Microsoft.WindowsTerminal                     # New default terminal app in windows 11 (Command Prompt, PowerShell, WSL)
 #Microsoft.Xbox.TCUI                           # UI framework, seems to be required for MS store, photos and certain games
-#Microsoft.XboxGameOverlay                     # Game overlay, required/useful for some games (Part of Xbox Game Bar)
+Microsoft.XboxGameOverlay                     # Game overlay, required/useful for some games (Part of Xbox Game Bar)
 #Microsoft.XboxGamingOverlay                   # Game overlay, required/useful for some games (Part of Xbox Game Bar)
-#Microsoft.XboxIdentityProvider                # Xbox sign-in framework, required for some games and Xbox services
+Microsoft.XboxIdentityProvider                # Xbox sign-in framework, required for some games and Xbox services
 #Microsoft.XboxSpeechToTextOverlay             # Might be required for some games, WARNING: This app cannot be reinstalled easily! (Accessibility feature)
 #Microsoft.YourPhone                           # Phone link (Connects Android/iOS phone to PC)
 #Microsoft.ZuneMusic                           # Modern Media Player (Replaced Groove Music, plays local audio/video)
