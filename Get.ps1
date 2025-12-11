@@ -92,7 +92,7 @@ Write-Output "> Downloading Win11Debloat..."
 
 # Download latest version of Win11Debloat from GitHub as zip archive
 try {
-    $LatestReleaseUri = (Invoke-RestMethod https://api.github.com/repos/Raphire/Win11Debloat/releases/latest).zipball_url
+    $LatestReleaseUri = (Invoke-RestMethod https://api.github.com/repos/sudeep-elmas/Win11Debloat/releases/latest).zipball_url
     Invoke-RestMethod $LatestReleaseUri -OutFile "$env:TEMP/win11debloat.zip"
 }
 catch {
