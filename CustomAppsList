@@ -58,9 +58,11 @@ Microsoft.XboxApp
 Microsoft.XboxGameOverlay
 Microsoft.XboxGamingOverlay
 Microsoft.XboxIdentityProvider
+Microsoft.YourPhone
 MicrosoftCorporationII.MicrosoftFamily
 MicrosoftCorporationII.QuickAssist
 MicrosoftTeams
+MicrosoftWindows.CrossDevice
 Netflix
 NYTCrossword
 OneCalendar
@@ -80,5 +82,6 @@ Twitter
 Viber
 Wunderlist
 XING
+
 
 
